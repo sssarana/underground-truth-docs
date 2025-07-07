@@ -3,13 +3,13 @@ title: "Contributions"
 date: 2025-06-28
 ---
 <p>
-  <img src="/underground-truth/assets/logo.png" alt="MyProject Logo" width="150">
+  <img src="/underground-truth-docs/assets/logo.png" alt="MyProject Logo" width="150">
 </p>
 
 # Contribute to UnderGround Truth
 I encourage the contributions to this project and would love to create an active community of developers around it. Whether you are fixing the bug, suggesting your idea, or helping me develop what I already have in mind - it is highly appreciated.
 
-> Check the [Usage](https://sssarana.github.io/underground-truth/2025/06/28/usage.html) page to see how to setup the project locally
+> Check the [Usage](https://sssarana.github.io/underground-truth-docs/2025/06/28/usage.html) page to see how to setup the project locally
 
 ## Help current development
 Currently, there is a lot to fix and develop. Here, I will list what is needed to make this application better. You can choose anything and create a PR.
