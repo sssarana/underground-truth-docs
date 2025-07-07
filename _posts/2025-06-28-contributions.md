@@ -13,13 +13,13 @@ I encourage the contributions to this project and would love to create an active
 
 ## Help current development
 Currently, there is a lot to fix and develop. Here, I will list what is needed to make this application better. You can choose anything and create a PR.
-- History Data Processing
+- History Data Processing:
 At the moment the history panel has only placeholder data. You can contribute by replacing it with real calculations.
-- Drone Spawning 
-Right noe it is just a box. It would be great to allow loading real drone models, such as URDF or SDF.
-- Simulate proper movement
+- Drone Spawning: 
+Right now it is just a box. It would be great to allow loading real drone models, such as URDF or SDF.
+- Simulate proper movement:
 Now the drone cspawned by user moves at predefined step size, it does not simulate flying movement properly.
-- Healthmap generation
+- Healthmap generation:
 It would be great to have a 'healthmap' that looks like heatmap. It should be applied to the model, so we can see the surface in smoothly transitioned colours depending on health of the cave in the area.
 
 ## Suggest a feature
